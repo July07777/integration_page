@@ -10,9 +10,9 @@ defineProps<{ msg: LinkInfo }>()
 <template>
   <a :href="msg.url" target="_blank" class="link-card size-full flex flex-col">
     <div class="bg-image" :style="{ backgroundImage: `url(${msg.image})` }">
-      <div class="center-text">{{ msg.title }}</div>
+      <!-- <div class="">{{ msg.title }}</div> -->
     </div>
-    <div class="center-text">{{ msg.title }}</div>
+    <div class="">{{ msg.title }}</div>
   </a>
 </template>
 

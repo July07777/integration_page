@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Claude Code",
+        "url": "https://claude.com/product/claude-code",
+        "image": "/images/test.png"
+    },
+    {
+        "title": "Vue.js",
+        "url": "https://vuejs.org",
+        "image": "/images/test.png"
+    },
+    {
+        "title": "GitHub",
+        "url": "https://github.com",
+        "image": "/images/test.png"
+    }
+]
